@@ -21,7 +21,7 @@ This solution offers a combination of real-time unsafe zone mapping, AR-based se
 * Report incidents anonymously to alert others
 * Legal Assist AI (Using Meta's Llama-3.1-8b-instant) (With Multilingual support)
 * Pairing commuting women together to avoid sexual assaulters lurking around solitary women
-* 
+
 By providing data-backed safety insights, interactive defense training, and discreet reporting, it empowers users to protect themselves and others more effectively.
 
 Devfolio - [SafeShe](https://devfolio.co/projects/safeshe-8f37)
