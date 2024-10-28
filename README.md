@@ -31,3 +31,7 @@ The Demo Link can be found here: [Video_Demo](https://drive.google.com/drive/u/1
 
 Demo Screenshots:
 
+![Untitled design](https://github.com/user-attachments/assets/5e124ae5-3da4-4469-a0e2-beef15865546)
+![Untitled design (1)](https://github.com/user-attachments/assets/4d443bef-750e-4bc0-9373-ba8ae2e36228)
+![Untitled design (2)](https://github.com/user-attachments/assets/a6a5f2d5-9cd1-481c-9276-a87ed3959e13)
+
